@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-REI DO PEDACO
+http://limetv.me:80/live/1702414pau/258190/91067.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS JALALS
+http://limetv.me:80/live/1702414pau/258190/91016.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ANTIGO TESTAMENTO
+http://limetv.me:80/live/1702414pau/258190/90484.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-CAMERAS ESCONDIDAS
+http://limetv.me:80/live/1702414pau/258190/90545.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-EL CHAPO S01
+http://limetv.me:80/live/1702414pau/258190/90681.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-EL CHAPO S02
+http://limetv.me:80/live/1702414pau/258190/90682.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S01
+http://limetv.me:80/live/1702414pau/258190/90689.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-EU A PATROA E AS CRIANCAS S02
+http://limetv.me:80/live/1702414pau/258190/90690.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-FATOS DESCONHECIDOS
+http://limetv.me:80/live/1702414pau/258190/90700.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-FILA DE PIADAS
+http://limetv.me:80/live/1702414pau/258190/90702.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-FRIENDS S01
+http://limetv.me:80/live/1702414pau/258190/90708.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-FRIENDS S03
+http://limetv.me:80/live/1702414pau/258190/90710.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S01
+http://limetv.me:80/live/1702414pau/258190/90722.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-GAME OF THRONES S08
+http://limetv.me:80/live/1702414pau/258190/90729.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-LARGASDOS E PELADOS S01
+http://limetv.me:80/live/1702414pau/258190/90797.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-LARGASDOS E PELADOS S02
+http://limetv.me:80/live/1702414pau/258190/90798.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL DESENHO
+http://limetv.me:80/live/1702414pau/258190/90823.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL- AGENTS DA S.H.I.E.L.D S02
+http://limetv.me:80/live/1702414pau/258190/90824.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-AGENTS DA S.H.I.E.L.D S06
+http://limetv.me:80/live/1702414pau/258190/90830.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-CAPITAO AMERICA
+http://limetv.me:80/live/1702414pau/258190/90831.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-CLASSICOS DA MARVEL 1
+http://limetv.me:80/live/1702414pau/258190/90832.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-CLASSICOS DA MARVEL 2
+http://limetv.me:80/live/1702414pau/258190/90833.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEFENSORES S01
+http://limetv.me:80/live/1702414pau/258190/90834.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEMOLIDOR S01
+http://limetv.me:80/live/1702414pau/258190/90835.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-DEMOLIDOR S02
+http://limetv.me:80/live/1702414pau/258190/90836.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-DUOLOGIA HOMEM ARANHA E ESPETACULAR HOMEM ARANHA
+http://limetv.me:80/live/1702414pau/258190/90838.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-FALCAO E SOLDADO INVERNAL S01
+http://limetv.me:80/live/1702414pau/258190/90839.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-FILMES 1
+http://limetv.me:80/live/1702414pau/258190/90840.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-FILMES 2
+http://limetv.me:80/live/1702414pau/258190/90841.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-HOMEM DE FERRO
+http://limetv.me:80/live/1702414pau/258190/90842.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-JESSICA JONES S01
+http://limetv.me:80/live/1702414pau/258190/90844.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-JUSTICEIRO S01
+http://limetv.me:80/live/1702414pau/258190/90847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-LEGIAO S01
+http://limetv.me:80/live/1702414pau/258190/90849.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-LENDAS DA MARVEL S01
+http://limetv.me:80/live/1702414pau/258190/90851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-LUKE CAGE S01
+http://limetv.me:80/live/1702414pau/258190/90852.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-MANDALORIANO S01
+http://limetv.me:80/live/1702414pau/258190/90853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-ORDEM CRONOLOGICA 02
+http://limetv.me:80/live/1702414pau/258190/90856.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-PUNHO DE FERRO S01
+http://limetv.me:80/live/1702414pau/258190/90857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-QUARTETO FANTASTICO
+http://limetv.me:80/live/1702414pau/258190/90859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-THE GIFTED S01
+http://limetv.me:80/live/1702414pau/258190/90860.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-THOR
+http://limetv.me:80/live/1702414pau/258190/90861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-TRILOGIA HOMEM-ARANHA
+http://limetv.me:80/live/1702414pau/258190/90862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-VINGADORES
+http://limetv.me:80/live/1702414pau/258190/90863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-WANDAVISION S01
+http://limetv.me:80/live/1702414pau/258190/90864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MARVEL-X-MEN 1
+http://limetv.me:80/live/1702414pau/258190/90865.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MASTER TRASH E PANICO CHEF
+http://limetv.me:80/live/1702414pau/258190/90867.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-MELHORES VIDEOS DO MUNDO
+http://limetv.me:80/live/1702414pau/258190/90873.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-NARCOS S01
+http://limetv.me:80/live/1702414pau/258190/90906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-NATUREZA S01
+http://limetv.me:80/live/1702414pau/258190/90919.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-O NOVO TESTAMENTO
+http://limetv.me:80/live/1702414pau/258190/90931.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-OCEANO
+http://limetv.me:80/live/1702414pau/258190/90943.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-OS TRAPALHOES
+http://limetv.me:80/live/1702414pau/258190/90995.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-PANICO TROLL
+http://limetv.me:80/live/1702414pau/258190/91003.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS DO SILVIO SANTOS
+http://limetv.me:80/live/1702414pau/258190/91015.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-PEGADINHAS JOAO KLEBER
+http://limetv.me:80/live/1702414pau/258190/91017.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-PERDIDO NO ESPA
+http://limetv.me:80/live/1702414pau/258190/91021.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SAI DE BAIXO S02
+http://limetv.me:80/live/1702414pau/258190/91078.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SMALLVILLE S01
+http://limetv.me:80/live/1702414pau/258190/91095.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SNOOPY NO ESPA
+http://limetv.me:80/live/1702414pau/258190/91105.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S01
+http://limetv.me:80/live/1702414pau/258190/91106.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S07
+http://limetv.me:80/live/1702414pau/258190/91112.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SOBRENATURAL S10
+http://limetv.me:80/live/1702414pau/258190/91115.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK
+http://limetv.me:80/live/1702414pau/258190/91122.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-SOUTH PARK ESPECIAL
+http://limetv.me:80/live/1702414pau/258190/91123.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-TENCHI MUYO
+http://limetv.me:80/live/1702414pau/258190/91162.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-TESTE DE FIDELIDADE
+http://limetv.me:80/live/1702414pau/258190/91163.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S03
+http://limetv.me:80/live/1702414pau/258190/91166.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-THE BIG BANG THEORY S09
+http://limetv.me:80/live/1702414pau/258190/91172.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-TOURADAS
+http://limetv.me:80/live/1702414pau/258190/91184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-TUNEL DO TEMPO
+http://limetv.me:80/live/1702414pau/258190/91192.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-UM MALUCO NO PEDA S01
+http://limetv.me:80/live/1702414pau/258190/91198.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-VOCE NA TV
+http://limetv.me:80/live/1702414pau/258190/91208.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-VOCE SABIA
+http://limetv.me:80/live/1702414pau/258190/91209.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-WEBBULLYING NA TV
+http://limetv.me:80/live/1702414pau/258190/91211.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ZATCH BELL
+http://limetv.me:80/live/1702414pau/258190/91304.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ZE BUSCAPE
+http://limetv.me:80/live/1702414pau/258190/91305.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ZE PEQUENO DO PANICO
+http://limetv.me:80/live/1702414pau/258190/91307.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ZILLION
+http://limetv.me:80/live/1702414pau/258190/91308.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ZOEY 101
+http://limetv.me:80/live/1702414pau/258190/91310.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS",24H-ZORRA TORAL 2015
+http://limetv.me:80/live/1702414pau/258190/91311.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS YOUTUBERS",24H-NA CORREIA
+http://limetv.me:80/live/1702414pau/258190/90905.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS YOUTUBERS",24H-EDU PRIMITIVO
+http://limetv.me:80/live/1702414pau/258190/90679.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS YOUTUBERS",24H-REFUGIO MENTAL
+http://limetv.me:80/live/1702414pau/258190/91066.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS YOUTUBERS",24H-PORTAS DOS FUNDOS
+http://limetv.me:80/live/1702414pau/258190/91050.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS SHOWS",24H-PARA RELAXAR E DORMIR
+http://limetv.me:80/live/1702414pau/258190/91006.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS SHOWS",24H-MUSICA FORRO
+http://limetv.me:80/live/1702414pau/258190/90896.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS SHOWS",24H-MUSICAS POP
+http://limetv.me:80/live/1702414pau/258190/90900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="CANAIS | 24 HORAS SHOWS",24H-MUSICAS SERTANEJO
+http://limetv.me:80/live/1702414pau/258190/90903.m3u8
